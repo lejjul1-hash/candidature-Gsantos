@@ -1,5 +1,5 @@
 const WEBHOOK = 'https://discord.com/api/webhooks/1549788639033032715/I0oFqQTdPB38UYMzrYm1_ijWfiyWxVOUxNm9skTceBscibYIVRJnjnvamu2tpv3-G3px';
-const ROLE_ID = '1549787002700955660';
+const ROLE_ID = '1549746243163652197';
 const WHITELIST_IP = '';
 
 function updateProgress(step) {
