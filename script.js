@@ -107,7 +107,7 @@ async function sendForm() {
         { name: '📚 Expérience',                  value: data.experience || 'Aucune' },
         { name: '➕ Informations supplémentaires',value: data.extra      || 'Aucune' },
       ],
-      footer: { text: '💼 Système de candidature — Gvibe' },
+      footer: { text: '💼 Système de candidature — Gsantos' },
       timestamp: new Date().toISOString(),
     }],
   };
