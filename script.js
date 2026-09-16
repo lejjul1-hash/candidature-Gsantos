@@ -1,4 +1,4 @@
-const WEBHOOK = 'https://discord.com/api/webhooks/1510677988847390831/md7BKx6GzcyMUA-kuI2ZwBqI5pLHoGbwFbzEiAHWOE5vJgPeJQ-vBC6pk2Ws4oLfB4b6';
+const WEBHOOK = 'https://discord.com/api/webhooks/1549788639033032715/I0oFqQTdPB38UYMzrYm1_ijWfiyWxVOUxNm9skTceBscibYIVRJnjnvamu2tpv3-G3px';
 const ROLE_ID = '1549787002700955660';
 const WHITELIST_IP = '';
 
